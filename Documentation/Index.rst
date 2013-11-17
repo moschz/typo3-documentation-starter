@@ -8,17 +8,15 @@
 .. _start:
 
 ========================================================================
-TYPO3 Documentation Starter  <- Change this to your title!
+Get Started With TYPO3 6.2
 ========================================================================
 
 :Author:          Monika Schwarz <typo3@moschz.de>
 :Buildinfo:       `Make folder <_make>`_ (if on docs.typo3.org)
-:Copyright:       2013 ...
-:Description:     This is a recommended template to start any ReST based
-                  documentation for TYPO3 (ReST = ReStructuredText)
+:Copyright:       2013
+:Description:     Notes about installing and operating TYPO3 6.2.
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
 :Rendered:        |today|
-
 
 
 
@@ -30,11 +28,6 @@ Sitemap
 
 :ref:`Sitemap <sitemap>`
 
-((This "Sitemap" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
-
-
-
 
 Info
 ====
@@ -43,10 +36,6 @@ The content of this document is related to TYPO3, a GNU/GPL
 CMS/Framework available from `typo3.org`__.
 
 __ http://typo3.org/
-
-((This "Info" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
-
 
 
 
@@ -61,21 +50,13 @@ You are free
 - to remix: to adapt the work
 - to make commercial use of the work
 
-((This "License" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
-
-
-
 
 
 Sources
 =======
 
 The sources of this draft are located at
-`Github <https://github.com/marble/typo3-documentation-starter>`_.
-
-((This "Sources" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
+`Github <https://github.com/moschz/typo3-get-started-with-6.2/>`_.
 
 
 
@@ -83,10 +64,6 @@ Description
 ===========
 
 What this is all about ...
-
-((This "Description" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
-
 
 
 Next pages:
