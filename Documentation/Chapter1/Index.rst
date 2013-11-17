@@ -9,7 +9,7 @@
 Chapter 1
 =========================
 
-Your text.
+Am 10. Dezember erscheint die TYPO3 Version 6.2 mit LTS in der finalen Version - - - ein willkommener Anlass hierzu eine Dokumentation für den Einstieg zu verfassen.
 
 Next pages:
 
